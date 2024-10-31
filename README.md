@@ -1,12 +1,10 @@
-<div align="center"> 
-  <h1 align="center">Visit Now </h1>
+<div align="center">
+
+<h1 align="center">Visit Now </h1>
    <br />
       <img src="./pic.png" alt="Project Banner" width="850" height="450">
     </a>
   <br />
-=======
-<div align="center">
-
 
   <div>
     <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
