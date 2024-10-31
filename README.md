@@ -1,7 +1,4 @@
 <div align="center">
- 
-
-https://github.com/user-attachments/assets/716b66d0-a673-4973-af17-2ac82148b87e
 
 
   <div>
