@@ -4,6 +4,10 @@
       <img src="./pic.png" alt="Project Banner" width="850" height="450">
     </a>
   <br />
+=======
+<div align="center">
+
+
   <div>
     <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
